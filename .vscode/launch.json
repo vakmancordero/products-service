@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProductsServiceApp<products-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tecgurus.products_service.ProductsServiceApp",
+            "projectName": "products-service",
+            "args": ""
+        }
+    ]
+}
