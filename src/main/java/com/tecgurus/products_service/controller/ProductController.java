@@ -1,4 +1,4 @@
-package  com.tecgurus.products_service.controller;
+package com.tecgurus.products_service.controller;
 
 import java.util.*;
 import java.util.stream.Collectors;
